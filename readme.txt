@@ -11,4 +11,3 @@ test03.
 second.five.
 third.four.
 six.
-seven.
